@@ -12,7 +12,10 @@ Retro Old School Basic Snake Game
 </ul>
 
 # Compiling
-$ gcc -o snake snake.c -lncurses
+`$ gcc -o snake snake.c -lncurses`
 
 # Run
-$ ./snake
+`$ ./snake`
+
+# Controls
+`Arrow Keys` to move snake
